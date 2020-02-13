@@ -1,11 +1,11 @@
-# Attentional ASR Models Misbehave on Out-of-domain Utterances
+# Attentional Speech Recognition Models Misbehave on Out-of-domain Utterances
 
 This repo describes artifacts for the paper:
 ```
 @article{keung2020attentional,
-  title={Attentional {ASR} Models Misbehave on Out-of-domain Utterances},
+  title={Attentional Speech Recognition Models Misbehave on Out-of-domain Utterances},
   author={Keung, Phillip and Niu, Wei and Lu, Yichao and Salazar, Julian and Bhardwaj, Vikas},
-  journal={CoRR},
+  journal={arXiv preprint arXiv:2002.05150},
   year={2020}
 }
 ```
